@@ -55,17 +55,5 @@ The dataset used is the famous Titanic dataset, which contains demographic and t
 
 ---
 
-## 🚀 How to Run
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/yourusername/titanic-data-preprocessing.git
-cd titanic-data-preprocessing
-
-# 2. Install dependencies
-pip install pandas seaborn matplotlib scikit-learn
-
-# 3. Run the script
-python dataset1.py
-Dataset Source:
-Titanic Dataset from Kaggle
+Data source:
+https://www.kaggle.com/datasets/yasserh/titanic-dataset
